@@ -6,3 +6,4 @@ Then I made a new project for copying image. I, unfortunately, failed at the tas
 but not what the mock test provides. I have added what image is pasted labelled as ImageError.png
 
 I would like to find out what I have done wrong and how to make the plugin work.Thank you for your time.
+My project name was Image_Clipboard.
